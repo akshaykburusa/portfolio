@@ -1,5 +1,12 @@
 title: Akshay K. Burusa
 logo: /assets/img/headshot.png
-#description: text below image
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am a robotics researcher specializing in visual perception, with expertise in addressing occlusion challenges. I enjoy integrating optimization and planning techniques with computer vision and 3D scene understanding. I am passionate about staying at the forefront of advancements in my field, continually learning and applying cutting-edge techniques to real-world challenges. One of my key strengths is the ability to gain a high-level understanding of diverse topics in computer vision and robotics, enabling me to connect concepts, bridge disciplines, and generate innovative solutions to complex problems.
+  <br><br>
+  In the next phase of my career, I aim to bridge the gap between technical innovation and real-world impact. By engaging with clients, I aspire to translate their challenges into actionable technical and business strategies.
+  <br><br>
+  Professional interests: Computer vision, Deep learning, 3D scene understanding, Optimal policy planning (e.g. Active SLAM, Reinforcement learning), Generate impact through technical outreach
+  <br><br>
+  <a href="https://www.linkedin.com/in/aks121/">View My LinkedIn Profile</a> 
 show_downloads: true
 theme: jekyll-theme-minimal
