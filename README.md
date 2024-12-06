@@ -1,9 +1,9 @@
 # Robotics and Computer Vision Engineer
 
 ## Skills
-- **Software Skills**: ROS, PyTorch, Open3D, COLMAP, Git, Gazebo, Webots
-- **Coding Skills**: Python, C++, MATLAB
-- **Hardware Skills**: ABB 6DoF manipulator, Intel Realsense RGB-D cameras, Robotiq 2-finger gripper
+- **Software**: ROS, PyTorch, MoveIt, Open3D, COLMAP, Git, Gazebo, Webots
+- **Coding**: Python, C++, MATLAB
+- **Hardware**: ABB 6DoF manipulator, Intel Realsense RGB-D cameras, Robotiq 2-finger gripper
 
 ## Education
 - **Ph.D. Candidate, Computer Vision and Robotics** (_2025_)	  
