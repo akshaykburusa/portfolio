@@ -3,7 +3,7 @@ logo: /assets/img/headshot.png
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a robotics researcher specializing in visual perception, with expertise in addressing occlusion challenges. I enjoy integrating optimization and planning techniques with computer vision and 3D scene understanding. In the next phase of my career, I aim to bridge the gap between technical innovation and real-world impact.
   <br><br>
-  **Professional interests**: Computer vision, Deep learning, 3D scene understanding, Optimal policy planning, Generate impact through technical outreach
+  <b>Professional interests<\b>: Computer vision, Deep learning, 3D scene understanding, Optimal policy planning, Generate impact through technical outreach
   <br><br>
   <a href="https://www.linkedin.com/in/aks121/">View My LinkedIn Profile</a> 
 show_downloads: false
