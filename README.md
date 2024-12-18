@@ -1,8 +1,8 @@
 # Robotics and Computer Vision Engineer
 
 ## Skills
-- **Software**: ROS, PyTorch, MoveIt, Open3D, COLMAP, Git, Gazebo, Webots
-- **Coding**: Python, C++, MATLAB
+- **Software**: ROS (interested in learning ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Gazebo, Webots
+- **Coding**: Python, C++, MATLAB, Interested in learning Rust
 - **Hardware**: ABB 6DoF manipulator, Intel Realsense RGB-D cameras, Robotiq 2-finger gripper
 
 ## Education
