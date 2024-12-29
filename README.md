@@ -1,12 +1,14 @@
 # Robotics and Computer Vision Engineer
 
 ## Skills
-- **Software**: ROS (interested in learning ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Gazebo, Webots
-- **Coding**: Python, C++, MATLAB, Interested in learning Rust
-- **Hardware**: ABB 6DoF manipulator, Intel Realsense RGB-D cameras, Robotiq 2-finger gripper
+- **Software**: Robotic Operating System (ROS1, planning to learn ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Gazebo
+- **Coding**: Python, C++, MATLAB, Interested to learn Rust
+- **Hardware**: ABB 6DoF manipulator, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper, Arduino
+- **Languages**: English (full professional proficiency), Planning to learn Dutch, Telugu (native), Tamil, Hindi, German (basic, had B1 proficiency in the past)
 
 ## Education
-- **Ph.D. Candidate, Computer Vision and Robotics** (_2025_)	  
+- **Ph.D. Candidate, Robotics and Computer Vision** (_2025_)  
+  Title: Active Vision for Agricultural Robotics  
   Wageningen University and Research, The Netherlands							       		
 - **M.Sc., Systems Control and Robotics** (_Sep 2017_)  
   KTH Royal Institute of Technology, Sweden 
@@ -14,16 +16,19 @@
   Anna University, India 
 
 ## Work Experience
-**PhD Candidate** (_Oct 2019 - Aug 2024_)  
+**PhD Candidate** (_Oct 2019 - Present_)  
 **Wageningen University and Research, The Netherlands**
+- Worked on visual perception for a tomato harvesting robot that operated autonomously in a greenhouse (NWO project FlexCRAFT)
 - Addressed the challenge of occlusion, which is a major reason of failure for harvesting and de-leafing robots
+- Trained deep neural networks for semantic segmentation and keypoints detection to identify plant parts
 - Developed active vision strategies that enabled robots to plan camera viewpoints that were occlusion-free and improved the efficiency and accuracy of perception
 - Tested the active vision strategies in a tomato greenhouse and showed that it outperformed traditional methods
+- Wrote the base code using ROS, C++, and Python for a collaborative team of 10 PhDs and 3 Postdocs and maintained it on Git
 
 **Robotics Software Developer** (_Oct 2017 - Sep 2019_)  
 **Geo-konzept GmbH, Germany**
 - Applied autonomous vehicle and computer vision technology to agricultural and forestry applications
-- Developed software to reconstruct 2D crop-quality map of farms by geometrically correcting and aligning multi-spectral drone images
+- Developed software to reconstruct 2D crop-quality maps of farms by geometrically correcting and aligning multi-spectral drone images
 - Developed a visual-inertial odometry algorithm to track the position of a wood harvesting vehicle under dense forest cover when GPS was unreliable
 
 ## Projects
