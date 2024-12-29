@@ -1,11 +1,5 @@
 # Robotics and Computer Vision Engineer
 
-## Skills
-- **Software**: Robotic Operating System (ROS1, planning to learn ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Gazebo
-- **Coding**: Python, C++, MATLAB, Interested to learn Rust
-- **Hardware**: ABB 6DoF manipulator, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper, Arduino
-- **Languages**: English (full professional proficiency), Planning to learn Dutch, Telugu (native), Tamil, Hindi, German (basic, had B1 proficiency in the past)
-
 ## Education
 - **Ph.D. Candidate, Robotics and Computer Vision** (_2025_)  
   Title: Active Vision for Agricultural Robotics  
@@ -14,6 +8,12 @@
   KTH Royal Institute of Technology, Sweden 
 - **B.Sc., Electrical and Electronics Engineering** (_May 2017_)  
   Anna University, India 
+
+## Skills
+- **Software**: Robotic Operating System (ROS1, planning to learn ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Gazebo
+- **Coding**: Python, C++, MATLAB, Interested to learn Rust
+- **Hardware**: ABB 6DoF manipulator, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper, Arduino
+- **Languages**: English (full professional proficiency), Planning to learn Dutch, Telugu (native), Tamil, Hindi, German (basic, had B1 proficiency in the past)
 
 ## Work Experience
 **PhD Candidate** (_Oct 2019 - Present_)  
