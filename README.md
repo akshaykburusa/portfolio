@@ -16,7 +16,7 @@
 - **Languages**: English (full professional proficiency), Planning to learn Dutch, Telugu (native), Tamil, Hindi, German (basic, had B1 proficiency in the past)
 
 ## Work Experience
-**AI and Computer Vision Engineer** (_Apr 2025 - Present_)
+**AI and Computer Vision Engineer** (_Apr 2025 - Present_)  
 **Track32, The Netherlands**
 - Developed skills for deploying AI and Computer Vision algorithms on edge devices like Jetson Orin and OAK-D
 - Designed, developed the software architecture, and handled client communication for multiple real-world projects involving ROS2 and computer vision solutions
