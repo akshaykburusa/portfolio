@@ -10,13 +10,20 @@
   Anna University, India 
 
 ## Skills
-- **Software**: Robotic Operating System (ROS1, planning to learn ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Gazebo
-- **Coding**: Python, C++, MATLAB, Interested to learn Rust
-- **Hardware**: ABB 6DoF manipulator, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper, Arduino
+- **Software**: Robotic Operating System (ROS1/ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Docker, Gazebo
+- **Coding**: Python, C++, MATLAB
+- **Hardware**: Nvidia Jetson Orin, ABB 6DoF manipulator, OAK-D RGB-D camera, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper, Arduino
 - **Languages**: English (full professional proficiency), Planning to learn Dutch, Telugu (native), Tamil, Hindi, German (basic, had B1 proficiency in the past)
 
 ## Work Experience
-**PhD Candidate** (_Oct 2019 - Present_)  
+**AI and Computer Vision Engineer** (_Apr 2025 - Present_)
+**Track32, The Netherlands**
+- Developed skills for deploying AI and Computer Vision algorithms on edge devices like Jetson Orin and OAK-D
+- Designed, developed the software architecture, and handled client communication for multiple real-world projects involving ROS2 and computer vision solutions
+- Aimed at optimising AI models through quantization (e.g. TensorRT)
+- Worked with ROS2, Python, trained and deployed vision models, ONNX and TensorRT conversion, Docker for easy deployment, ClearML for MLOps
+
+**PhD Candidate** (_Oct 2019 - Aug 2024_)  
 **Wageningen University and Research, The Netherlands**
 - Worked on visual perception for a tomato harvesting robot that operated autonomously in a greenhouse (NWO project FlexCRAFT)
 - Addressed the challenge of occlusion, which is a major reason of failure for harvesting and de-leafing robots
