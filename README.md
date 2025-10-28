@@ -23,7 +23,7 @@
 - Developed and deployed C++ and Python applications on Linux platforms (Jetson Orin, Hailo AI) for edge inference and real-time monitoring
 - Built containerized systems (Docker) for scalable deployment and field operation, improving maintainability and performance
 - Led software design architecture, coordinated integration with other engineers, and maintained version-controlled modular codebases on git
-- Communicated with clients to translate operational needs into software specifications and testing or evaluation protocols
+- Collaborated closely with clients and cross-functional teams to gather requirements, perform data collection and field validation, and ensure robust system performance under variable conditions
 - Areas/Skills: Computer vision, ROS2, 3D point cloud, C++, Python, Docker containerisation, Git
 
 **PhD Candidate** (_Oct 2019 - Aug 2024_)  
@@ -33,6 +33,7 @@
 - Designed active vision strategies for next-best-view planning, a closed-loop system combining perception, decision-making, and control
 - Conducted field experiments in operational greenhouses to validate system reliability, robustness, and safety under dynamic conditions
 - Managed software versioning, integration, and testing for a team of 10+ researchers using Git
+- Assisted junior PhD candidates and MSc BSc students with their research
 - Areas/Skills: Viewpoint control, Active exploration, Deep learning and AI, Version control, Scientific writing, Teaching and supervision, C++, Python, ROS
 
 **Robotics Software Developer** (_Oct 2017 - Sep 2019_)  
