@@ -10,33 +10,38 @@
   Anna University, India 
 
 ## Skills
-- **Software**: Robotic Operating System (ROS1/ROS2), PyTorch, MoveIt, OpenCV, Open3D, COLMAP, Git, Docker, Gazebo
-- **Coding**: Python, C++, MATLAB
-- **Hardware**: Nvidia Jetson Orin, ABB 6DoF manipulator, OAK-D RGB-D camera, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper, Arduino
-- **Languages**: English (full professional proficiency), Planning to learn Dutch, Telugu (native), Tamil, Hindi, German (basic, had B1 proficiency in the past)
+- **Software**: Robotics Operating System (ROS/ROS2), MoveIt, OpenCV, Open3D, COLMAP, Version control with Git, Containerisation with Docker, Linux
+- **Coding**: C++, Python, MATLAB
+- **Hardware**: Nvidia Jetson Orin, ABB 6DoF manipulator, OAK-D RGB-D camera, Realsense RGB-D and LiDAR cameras, Robotiq 2-finger gripper
+- **Languages**: English (full professional proficiency), Telugu (native), Tamil, Hindi, interested in learning Dutch, German (had B1 proficiency in the past)
 
 ## Work Experience
 **AI and Computer Vision Engineer** (_Apr 2025 - Present_)  
 **Track32, The Netherlands**
-- Developed skills for deploying AI and Computer Vision algorithms on edge devices like Jetson Orin and OAK-D
-- Designed, developed the software architecture, and handled client communication for multiple real-world projects involving ROS2 and computer vision solutions
-- Aimed at optimising AI models through quantization (e.g. TensorRT)
-- Worked with ROS2, Python, trained and deployed vision models, ONNX and TensorRT conversion, Docker for easy deployment, ClearML for MLOps
+- Designed and implemented ROS2-based perception modules for industrial and agricultural machines, ensuring reliable performance in real-world outdoor environments
+- Developed software logic for multi-sensor data aggregation and spatial reasoning from stereo and RGB-D inputs
+- Developed and deployed C++ and Python applications on Linux platforms (Jetson Orin, Hailo AI) for edge inference and real-time monitoring
+- Built containerized systems (Docker) for scalable deployment and field operation, improving maintainability and performance
+- Led software design architecture, coordinated integration with other engineers, and maintained version-controlled modular codebases on git
+- Communicated with clients to translate operational needs into software specifications and testing or evaluation protocols
+- Areas/Skills: Computer vision, ROS2, 3D point cloud, C++, Python, Docker containerisation, Git
 
 **PhD Candidate** (_Oct 2019 - Aug 2024_)  
 **Wageningen University and Research, The Netherlands**
-- Worked on visual perception for a tomato harvesting robot that operated autonomously in a greenhouse (NWO project FlexCRAFT)
-- Addressed the challenge of occlusion, which is a major reason of failure for harvesting and de-leafing robots
-- Trained deep neural networks for semantic segmentation and keypoints detection to identify plant parts
-- Developed active vision strategies that enabled robots to plan camera viewpoints that were occlusion-free and improved the efficiency and accuracy of perception
-- Tested the active vision strategies in a tomato greenhouse and showed that it outperformed traditional methods
-- Wrote the base code using ROS, C++, and Python for a collaborative team of 10 PhDs and 3 Postdocs and maintained it on Git
+- Developed autonomous visual control algorithms for a robotic tomato harvester, enabling perception-guided manipulation and motion planning in real greenhouse environments
+- Implemented real-time perception and control pipelines in C++ and Python (ROS1) for collaborative research teams, including inter-module communication, state management, and command execution
+- Designed active vision strategies for next-best-view planning, a closed-loop system combining perception, decision-making, and control
+- Conducted field experiments in operational greenhouses to validate system reliability, robustness, and safety under dynamic conditions
+- Managed software versioning, integration, and testing for a team of 10+ researchers using Git
+- Areas/Skills: Viewpoint control, Active exploration, Deep learning and AI, Version control, Scientific writing, Teaching and supervision, C++, Python, ROS
 
 **Robotics Software Developer** (_Oct 2017 - Sep 2019_)  
 **Geo-konzept GmbH, Germany**
-- Applied autonomous vehicle and computer vision technology to agricultural and forestry applications
-- Developed software to reconstruct 2D crop-quality maps of farms by geometrically correcting and aligning multi-spectral drone images
-- Developed a visual-inertial odometry algorithm to track the position of a wood harvesting vehicle under dense forest cover when GPS was unreliable
+- Developed real-time localization and mapping software for GPS-denied forest environments using C++ and ROS
+- Implemented a visual–inertial odometry (VIO) control and state estimation algorithm that enabled autonomous navigation of heavy forestry machinery
+- Built tools to process multispectral drone imagery and reconstruct georeferenced 2D maps for precision agriculture and environmental monitoring
+- Worked closely with hardware engineers to integrate and test software in field conditions, ensuring reliability under harsh outdoor environments
+- Areas/Skills: Localisation, Image processing, Computer vision, C++, ROS
 
 ## Projects
 ### Active vision for robotic harvesting and de-leafing of tomato plants
